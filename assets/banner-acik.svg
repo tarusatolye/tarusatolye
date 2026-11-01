@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 340" width="1280" height="340">
+  <defs>
+    <pattern id="ince" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="rgba(138,117,80,0.14)" stroke-width="1"/></pattern>
+    <pattern id="kalin" width="100" height="100" patternUnits="userSpaceOnUse"><rect width="100" height="100" fill="url(#ince)"/><path d="M100 0H0V100" fill="none" stroke="rgba(138,117,80,0.14)" stroke-width="1.6"/></pattern>
+  </defs>
+  <rect width="1280" height="340" fill="#f3f1ec"/>
+  <rect width="1280" height="340" fill="url(#kalin)"/>
+  <rect x="16" y="16" width="1248" height="308" fill="none" stroke="#8a7550" stroke-width="1.5"/>
+  <rect x="24" y="24" width="1232" height="292" fill="none" stroke="#8a7550" stroke-opacity="0.45" stroke-width="0.8"/>
+  <g transform="translate(84 78) scale(0.17)" fill="#1a1a1a">
+    <polygon points="26,334 1054,129 1054,849 972,849 972,237 45,417"/><polygon points="292,26 375,26 375,238 292,254"/><polygon points="375,377 375,1053 292,1053 292,393"/><polygon points="715,311 715,849 632,849 632,329"/>
+  </g>
+  <text x="300" y="170" font-family="'Space Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="92" font-weight="700" fill="#1a1a1a" letter-spacing="-2">tarus</text>
+  <text x="304" y="214" font-family="'Space Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="22" fill="#8a7550" letter-spacing="1">Bir Fikirden Bir Dünyaya.</text>
+  <text x="304" y="250" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" fill="rgba(26,26,26,0.55)">Mimarlık ofisi ve yazılım atölyesi · mimari tasarım, şantiye ve dijital üretim aynı masada</text>
+  <g font-family="'Space Mono','SFMono-Regular',Menlo,Consolas,monospace" fill="rgba(26,26,26,0.55)" font-size="11" letter-spacing="1">
+    <rect x="904" y="262" width="352" height="54" fill="none" stroke="#8a7550" stroke-opacity="0.7" stroke-width="0.8"/>
+    <line x1="1024" y1="262" x2="1024" y2="316" stroke="#8a7550" stroke-opacity="0.7" stroke-width="0.8"/>
+    <line x1="1144" y1="262" x2="1144" y2="316" stroke="#8a7550" stroke-opacity="0.7" stroke-width="0.8"/>
+    <text x="914" y="282">PAFTA</text><text x="914" y="304" fill="#1a1a1a" font-size="13">01 / PROFİL</text>
+    <text x="1034" y="282">YER</text><text x="1034" y="304" fill="#1a1a1a" font-size="13">ÇARŞAMBA</text>
+    <text x="1154" y="282">KURULUŞ</text><text x="1154" y="304" fill="#1a1a1a" font-size="13">2023</text>
+  </g>
+  <g stroke="#8a7550" stroke-width="1.2" fill="none">
+    <path d="M1196 60 L1196 110 M1171 85 L1221 85"/><circle cx="1196" cy="85" r="16"/>
+  </g>
+  <text x="1196" y="132" text-anchor="middle" font-family="'Space Mono',Menlo,monospace" font-size="11" fill="#8a7550">K</text>
+</svg>
