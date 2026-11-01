@@ -63,6 +63,6 @@ Ofiste her gün kullandığımız araçları kendimiz yazıyoruz; bir kısmını
 
 ### ◢ İletişim
 
-<a href="https://tarus.tr">tarus.tr</a> · <a href="mailto:destek@tarus.tr">destek@tarus.tr</a>
+<a href="https://tarus.tr">tarus.tr</a> · <a href="mailto:bilgi@tarus.tr">bilgi@tarus.tr</a> · <a href="mailto:yazilim@tarus.tr">yazilim@tarus.tr</a>
 
 <sub>PAFTA 01 · ÖLÇEK 1/1 · ÇARŞAMBA, SAMSUN</sub>
