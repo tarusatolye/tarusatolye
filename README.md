@@ -116,7 +116,6 @@ BIM modeline kadar. Hepsi tek hesapla birbirine bağlı çalışır; bir kısmı
 - **Web:** React, Vite, Tailwind
 - **Mobil:** React Native (Expo), Flutter
 - **Masaüstü ve CAD:** Swift, C# / .NET, Revit API
-- **Altyapı:** kendi sunucularımız; tek oturum açma (SSO), S3 uyumlu depolama, ONLYOFFICE
 
 ### ◢ İletişim
 
