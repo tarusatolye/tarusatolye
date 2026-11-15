@@ -102,14 +102,6 @@ BIM modeline kadar. Hepsi tek hesapla birbirine bağlı çalışır; bir kısmı
   </tr>
 </table>
 
-### ◢ Sektörlere yönelik
-
-| Ürün | |
-|---|---|
-| **Pazarlama** | Saha temsilcileri ve plasiyerler için sipariş, tahsilat, gider ve muhasebe yönetimi |
-| **Klinik** | Diş hekimleri ve ağız-diş sağlığı klinikleri için klinik yönetimi |
-| **Kurumsal siteler** | 7 sektörde 35 hazır kurumsal web sitesi şablonu |
-
 ### ◢ Açık kaynak
 
 | Repo | | Platform |
